@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/OfficialMarinho/Links-uteis/blob/master/LINKS.md">
-    <img alt="Logo do projeto" src="https://raw.githubusercontent.com/leonardoamurca/lupe/master/logo.png">
+  <a href="https://github.com/leonardoamurca/lupe/blob/master/LINKS.md">
+    <img alt="Logo do projeto" src="logo.png">
   </a>
 </div>
 
