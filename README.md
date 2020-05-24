@@ -1,4 +1,8 @@
-# Links úteis para estudo (lupe)
+<div align="center">
+  <a href="https://github.com/OfficialMarinho/Links-uteis/blob/master/LINKS.md">
+    <img alt="Logo do projeto" src="https://raw.githubusercontent.com/leonardoamurca/lupe/master/logo.png">
+  </a>
+</div>
 
 ## Sobre o projeto
 
@@ -13,3 +17,7 @@ Para contribuir é bem simples, basta seguir os passos descritos [neste tutorial
 ## Que tipo de conteúdo posso submeter?
 
 Todo tipo de conteúdo é válido por aqui, como por exemplo: vídeos, podcasts, artigos da comunidade, tutoriais, artigos ciêntíficos, blogs, etc.
+
+## Licença
+
+Este repositório está sob a licença do MIT. Para mais informações, [clique aqui](https://github.com/leonardoamurca/lupe/blob/master/LICENSE).
