@@ -16,7 +16,7 @@ O Lupe é um projeto aberto à comunidade, portanto sinta-se à vontade para con
 
 ## Como posso contribuir?
 
-Para contribuir é bem simples, basta seguir os passos descritos [neste tutorial](https://google.com).
+Para contribuir é bem simples, basta seguir os passos descritos [neste tutorial](https://github.com/leonardoamurca/lupe/blob/master/CONTRIBUTING.md).
 
 ## Que tipo de conteúdo posso submeter?
 
