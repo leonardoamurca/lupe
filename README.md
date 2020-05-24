@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<p align="center">Links úteis para estudo (lupe) de conteúdos relacionados à desenvolvimento de software.</p>
+
 [<p align="center">Acessar links »</p>](https://github.com/leonardoamurca/lupe/blob/master/LINKS.md)
 
 ## Sobre o projeto
