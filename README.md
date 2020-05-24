@@ -3,6 +3,7 @@
     <img alt="Logo do projeto" src="logo.png">
   </a>
 </div>
+[<p align="center">Acessar links »</p>](https://github.com/leonardoamurca/lupe/blob/master/LINKS.md)
 
 ## Sobre o projeto
 
