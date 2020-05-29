@@ -6,3 +6,8 @@
 - [Become a git guru by Bitbucket](https://www.atlassian.com/git/tutorials) - Série de tutoriais feitos pela Atlassian sobre todo o ecossistema de GIT. :computer: :us:
 - [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) - Palestra de Linus Torvalds (criador do kernel do linux e do git) apresentando a ferramenta. :movie_camera: :us:
 - [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Apenas um guia prático para começar com git. Sem complicação. :computer:
+
+## React JS
+
+- [Overreacted](https://overreacted.io/) - Blog com diversos artigos escritos por um dos nomes mais relevantes no cenário de desenvolvimento web utilizando React, [Dan Abramov](https://twitter.com/dan_abramov?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). :us:
+- [Kent C. Dodds Blog](https://kentcdodds.com/blog/) - Blog com diversos artigos escritos por [Kent C. Dodds](https://twitter.com/kentcdodds), nome referência quando o assunto são testes em React. :us:
