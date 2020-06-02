@@ -11,3 +11,4 @@
 
 - [Overreacted](https://overreacted.io/) - Blog com diversos artigos escritos por um dos nomes mais relevantes no cenário de desenvolvimento web utilizando React, [Dan Abramov](https://twitter.com/dan_abramov?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). :us:
 - [Kent C. Dodds Blog](https://kentcdodds.com/blog/) - Blog com diversos artigos escritos por [Kent C. Dodds](https://twitter.com/kentcdodds), nome referência quando o assunto são testes em React. :us:
+- [Alligator.io - Posts About React](https://alligator.io/react/) - Blog com diversos tutoriais envolvendo o mundo frontend. :us:
